@@ -1,0 +1,1 @@
+print("Página de cadastro")
